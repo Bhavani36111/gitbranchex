@@ -1,0 +1,39 @@
+DevOps Engineer Introduction:
+
+Hi interviwer name
+
+My self Mounika
+I have a total 2+ years of experience as a DevOps Engineer and working with purpletalk.
+
+I am working with (your project name ) and when comes to tool stack experience
+I have good experience on Git,Github,Jenkins,Docker,Kubernetes,Ansible or Terraform (your wish , if you have good experience on both tools you can mention 2 tools otherwise mention anyone) , Google Cloud Platform ,Bug tracking tool is Jira and OS is linux and Windows.
+
+When comes to Day to day activities , 
+In Version control systems , I have good experience on Git and Github
+Here I am creating Git repos and providing access to Repo’s to dev and qa guys.
+Based on DEV/QA Teams requests , creating branches and working with them to resolve their Git related issues.
+
+In Continuous integration , I have good experience on Jenkins.
+Here I am creating jenkins jobs based on the requirements from the Dev and QA Teams and working with them to resolve their Jenkins build related issues.
+Based on the Jenkins console logs , we can find out the exact issue and will suggest developers to make some code changes if that is a code issue.
+
+In Containerization , I have good experience on Docker and kubernetes.
+Here I am creating docker files and creating images from Dockerfile and then pushing those images to DockerHub.
+Creating containers from the Images and deploying those containers to Kubernetes Clusters.
+
+When comes to IAC (Infrastructure as a Code)Tool, we are using Terraform to Create Infra on GCP Cloud and for that we are writing Terraform files and applying the same code changes to create infra in GCP Cloud.
+If you want to destroy the same infra , we can use the Terraform destroy command.
+
+When comes to Cloud Platform ,I have good experience on Google cloud platform
+Here I have good experience on IAM , GCE , Cloud storage , GKE , StackDriver ,BigQuery and BigTable Services.
+In IAM , Adding users to GCP and giving required roles to Google Users and service accounts.
+In GCE, Creating GCE VM’s and starting/stopping VM’s if we get any requests.
+ 
+Creating Storage buckets and assigning roles to buckets based on the requirement.
+Creating Bigquery datasets and giving roles to bq datasets 
+Creating BigTable instances and increasing/decreasing instance size based on the requirement from the Dev/QA Teams.
+
+We are using Jira as a ticketing tool and generating reports for the entire week to represent with the Client manager.
+Apart from that , we have a daily status call with our Internal team to discuss daily issues and one more status call with our Client manager on a weekly basis.
+We are involving in one more status call with Dev/QA teams to resolve their issues on priority basis and if there is any priority issue , we can jump into the call and try to fix that issue ASAP.
+That’s it  from my end.
