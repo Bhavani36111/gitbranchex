@@ -1,0 +1,11 @@
+branches
+
+git branch -- This command lists all the local branches in the current repository.
+git branch branch name -- This command creates a new branch
+git branch -d branch name -- This command deletes the feature branch.
+git checkout [branch name] -- This command is used to switch from one branch to another
+git checkout -b [branch name] -- This command creates a new branch and also switches to it
+git merge [branch name] -- This command merges the specified branch’s history into the current branch
+git push origin --delete [branch name] -- Delete a remote branch
+git merge [source branch] [target branch] -- Merge a branch into a target branch
+
